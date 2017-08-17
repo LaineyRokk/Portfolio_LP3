@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-family:inherit;
+}
+h2 {
+  text-align: center;
+  font-family: inherit;
+  font-style: italic;
+  font-weight: bold;
+}
+
+img {
+  float: right;
+}
+
+.my-class {
+  border: 2px solid black;
+  background-color: goldenrod;
+}
+
+.my-goal {
+  border: 6px solid black;
+  background-color: goldenrod;
+}
